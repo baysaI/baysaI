@@ -27,15 +27,6 @@ I'm a **Web Design and Coding** student based in Turkey. Passionate about buildi
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baysaI&show_icons=true&theme=dark&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baysaI&layout=compact&theme=dark" height="150" alt="languages graph"  />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
